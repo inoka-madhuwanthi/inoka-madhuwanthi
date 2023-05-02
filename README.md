@@ -13,8 +13,6 @@ Welcome to my GitHub profile! I'm an IT undergraduate student at the University 
 <p>
 - 🌱 I’m currently learning React, Node.js and JavaScript 
 </br>
-</br>
-- 📫 How to reach me: madhuwanthiwai@gmail.com 
 </p>
 <h3>Languages and Tools:</h3>
 

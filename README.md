@@ -1,6 +1,6 @@
 # Hi there, I'm Inoka 👋
 
-Welcome to my GitHub profile! I'm an IT undergraduate student at the University of Moratuwa with a passion for web development. I thrive on building modern, user-friendly interfaces using cutting-edge technologies. I believe in creating elegant solutions that not only meet functional requirements but also deliver an exceptional user experience. I'm constantly exploring new frameworks and libraries to stay up-to-date with the latest trends in the industry. Feel free to browse through my projects and repositories to get a glimpse of my work. Let's connect and collaborate to bring innovative ideas to life!
+Welcome to my GitHub profile! I'm an fresh undergraduate at the University of Moratuwa with a passion for web development. I thrive on building modern, user-friendly interfaces using cutting-edge technologies. I believe in creating elegant solutions that not only meet functional requirements but also deliver an exceptional user experience. I'm constantly exploring new frameworks and libraries to stay up-to-date with the latest trends in the industry. Feel free to browse through my projects and repositories to get a glimpse of my work. Let's connect and collaborate to bring innovative ideas to life!
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

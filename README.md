@@ -1,5 +1,5 @@
 <div align="center">
 
-![inoka-madhuwanthi](./readme.png)
+![inoka-madhuwanthi](./readmecover.png)
 
 </div>
